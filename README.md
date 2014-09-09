@@ -1,6 +1,7 @@
-# Mathias’s dotfiles
+# Ari's dotfiles
 
-![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
+Fork from https://github.com/mathiasbynens/dotfiles with customazations
+
 
 ## Installation
 
