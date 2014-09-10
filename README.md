@@ -5,6 +5,16 @@ Fork from https://github.com/mathiasbynens/dotfiles with customazations
 
 ## Installation
 
+1. First set `zsh` as your login shell:
+  ```bash
+  chsh -s `which zsh`
+  ```
+
+2. Install [`oh-my-zsh` framework](https://github.com/robbyrussell/oh-my-zsh):
+  ```bash
+  curl -L http://install.ohmyz.sh | sh
+  ```
+
 ### Using Git and the bootstrap script
 
 You can clone the repository wherever you want. (I like to keep it in `~/Projects/dotfiles`, with `~/dotfiles` as a symlink.) The bootstrapper script will pull in the latest version and copy the files to your home folder.
